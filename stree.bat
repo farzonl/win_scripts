@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Atlassian\SourceTree\SourceTree.exe" %1
