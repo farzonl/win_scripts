@@ -1,0 +1,1 @@
+mklink .gitconfig E:\repos\.gitconfig
