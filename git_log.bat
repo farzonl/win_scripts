@@ -1,0 +1,1 @@
+git log --pretty=format:"%%C(red)%%h%%Creset -%%C(yellow)%%d %%Creset%%s%%Cblue [%%cn]" --decorate --numstat
