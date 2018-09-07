@@ -1,0 +1,1 @@
+set PATH=%PATH%;%VSINSTALLDIR%Common7\IDE\
