@@ -1,0 +1,1 @@
+start %DevTools%\Notepad++_x64\notepad++.exe %1 
