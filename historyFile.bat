@@ -1,0 +1,1 @@
+n++ C:\Users\farzon\AppData\Local\clink\.history
